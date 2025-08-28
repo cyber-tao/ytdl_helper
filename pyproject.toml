@@ -1,0 +1,14 @@
+[project]
+name = "ytdl_helper"
+version = "0.1.0"
+description = "A helper module for yt-dlp"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "yt-dlp>=2025.6.9",
+]
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "tab"
+docstring-code-format = true
