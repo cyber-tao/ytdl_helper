@@ -2,7 +2,7 @@
 
 # yt-dlp Video Download Helper
 
-ytdl_helper is a small command-line wrapper around `[yt-dlp](https://github.com/yt-dlp/yt-dlp)` to
+ytdl_helper is a small command-line wrapper around [yt-dlp](https://github.com/yt-dlp/yt-dlp) to
 download videos, subtitles and thumbnails with sensible defaults and
 post-processing. The main script is `ytdl_helper.py`.
 
